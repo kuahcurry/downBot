@@ -58,3 +58,19 @@ AUTHORIZED_USER = 123456789  # your Telegram user ID
 
 Replace the values with yours, save the file, and run the bot with just a double click and Voila!  
 Your personal shutdown bot is ready to use!
+
+---
+
+### 3. Automation (Optional)
+If you want downBot to automatically run when your system starts (so you don't have to open it manually every time), follow these steps:
+
+#### 🪄 Windows Startup Method:
+1. Press Win + R and type shell:startup, then hit Enter.  This will open the Startup folder.
+2. Copy the .pyw file (the one you downloaded and edited earlier) into this folder.  
+Note: .pyw files run silently in the background, so no console window will pop up.
+3. Restart your PC to test. If it runs correctly, the bot will activate as soon as Windows boots up.
+
+#### 🧼 Reminder:
+- Don’t forget to edit the bot token and user ID before adding it to startup.
+- If you're debugging or testing, run it in .py mode (so the console shows output).
+- You can always remove the file from shell:startup if needed.
