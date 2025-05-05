@@ -1,7 +1,8 @@
 # ⚡ downBot: Remote PC Shutdown & Power Control via Telegram
 
 Ever wished you could shut down your PC from your bed?  
-Now you can. **downBot** is a Telegram bot that lets you control your Windows computer's power state remotely whether its shutdown, restart, sleep, or hibernate — all from a simple tap in Telegram. Oh, and yes, she even comes with timers and cancel buttons. Pretty cool for a small insignificant project, no?
+Now you can. **downBot** is a Telegram bot that lets you control your Windows computer's power state remotely whether its shutdown, restart, sleep, or hibernate — all from a simple tap in Telegram. Oh, and yes, she even comes with timers and cancel buttons. Pretty cool for a small insignificant project, no?  
+Keep in mind that this bot is currently in post-development state!
 
 ---
 
